@@ -15,20 +15,14 @@
     {
       "id": "3",
       "title": "My Third Post",
-      "datetime": "July 01 2021 11:17:36 AM",
+      "datetime": "March 12, 2024 12:06:08 AM",
       "body": "Made a video about Tesla Q1 results"
     },
     {
       "id": "4",
       "title": "My Fourth Post",
-      "datetime": "March 11, 2024 12:21:29 PM",
-      "body": "Going to Learn a Redux toolkit Course"
-    },
-    {
-      "id": 5,
-      "title": "My Fifth Post",
-      "datetime": "March 11, 2024 11:01:41 PM",
-      "body": "Going to do a project in react"
+      "datetime": "March 12, 2024 12:07:55 AM",
+      "body": "Going to Learn a Redux toolkit Course."
     }
   ]
 }

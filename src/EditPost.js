@@ -13,10 +13,6 @@ const EditPost = () => {
         setEditTitle(post.title)
         setEditBody(post.body)
       }
-      else{
-        console.log('this is the title', editTitle)
-        console.log('this is the body', editBody)
-      }
     }, [post,setEditBody,setEditTitle])
 
   return (
